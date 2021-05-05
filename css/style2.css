@@ -1,0 +1,66 @@
+
+
+.back{
+    
+   
+    font-family: verdana;
+    font-size: 50px;
+    padding: 100px;
+    margin-left: 400px;
+}
+.REF{
+   
+    margin-left: 20px;
+    display: flex;
+   
+
+}
+
+.button{
+    margin-top: -600px;
+}
+.table{
+    margin-right: -400px;
+}
+/* #tbl{
+    background-color: rgb(253, 253, 253);
+}  */
+
+#headpage{
+    text-align: center !important;
+    color: rgb(94, 94, 94);
+}
+.produit{
+    margin-top: 100px;
+}
+.thead{
+    margin-top: 100px;
+}
+#tbl{
+    margin-top: 70px;
+    width: 1050px;
+    margin: 0 auto;
+}
+#delet{
+    margin-left: 100px;
+}
+#btn1{
+    
+    margin-left: 480px;
+    width: 80px;
+    flex-direction: row;
+}
+#btn2{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    width: 80px;
+
+}
+.ICON{
+    background-image: url(./img/ICON.png);
+}
+.fil{
+    background-color: rgb(182, 182, 182);
+    text-align: center;
+}

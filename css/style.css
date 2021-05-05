@@ -1,0 +1,39 @@
+body{
+    background-image: url(./img/login.jpg);
+    position: relative;
+    
+}
+.container{
+    margin-left: 500px;
+    margin-top: 200px;
+    font-family: verdana;
+}
+.forms{
+    font-style: italic;color: #ff0000;
+}
+.form{
+    font-style: italic;color:#008000;
+}
+
+.user{
+    width: 300px;
+   height: 30px;
+   
+     
+}
+.user1{
+    font-family: verdana; font-size: 20px;
+    color: rgb(146, 146, 146);
+   font-style: normal;
+
+    
+}
+.btn{
+    height: 35px;width: 200px;
+    margin-left: 15%;
+    margin-top: 10px;
+    background-color: #a7d6ff;
+    border-radius: 3px;
+    border: 1px;
+    color: #353535;font-size: 15px;
+}
